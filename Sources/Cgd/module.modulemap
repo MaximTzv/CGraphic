@@ -1,0 +1,6 @@
+
+module Cgd {
+    header "/usr/local/Cellar/gd/2.3.0/include/gd.h"
+    link "gd"
+    export *
+}
